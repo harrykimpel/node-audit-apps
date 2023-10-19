@@ -1,0 +1,6 @@
+POST http://20.253.95.253:8080/foo
+
+{
+    "first": "harry",
+    "last": "kimpel"
+}
